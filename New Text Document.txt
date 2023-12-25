@@ -1,0 +1,9 @@
+user Perspective:-
+Registration:- Name , Email , Mobile no , Dob , Login Password .............One trigger to save data 
+Login validation  :-  email and Password ,  Make a view for login 
+
+Flat Or Pg Owner : registration :- Name , email , mobile  , Password , Address , dob , Pan Number , FlagOfApproval by default 0 
+                   login :-  Email , Password    , Make a view and validate using Flag
+
+After login Of Owner he has one more form :-  Select category - PG , Room , 1BHK , 2BHK 
+                                              Info About  Flat:- About rooms:-  
